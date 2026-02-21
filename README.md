@@ -5,20 +5,21 @@
 
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ajay+Ghadage;Computer+Engineering+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ajay+Ghadage;Computer+Engineering+Student;Java+%7C+Full-Stack+Developer;Machine+Learning+%26+Generative+AI+Enthusiast;Placement-Focused+Engineer" />
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
-🎓 **Computer Engineering Student** passionate about building scalable applications and intelligent systems.  
-💡 Strong focus on **Full-Stack Development, Machine Learning, and Problem Solving**.  
-🚀 Actively preparing for **placements** with hands-on projects and core CS fundamentals.
+🎓 **Computer Engineering Student** with a strong focus on **placements, problem-solving, and real-world engineering**.  
+💡 Passionate about **Full-Stack Development, Machine Learning, and Generative AI**.  
+🚀 Actively strengthening **core CS fundamentals** and building industry-relevant skills.
 
-- 🔹 Solid understanding of **DSA, DBMS, CN, OS**
-- 🔹 Experience building **end-to-end projects**
-- 🔹 Strong interest in **real-world problem solving**
-- 🔹 Continuous learner with a growth mindset
+- 🔹 Strong foundation in **DSA, DBMS, CN, OS**
+- 🔹 Comfortable with **Java-based problem solving**
+- 🔹 Experience with **end-to-end web applications**
+- 🔹 Curious about **AI-powered systems**
+- 🔹 Consistent learner with disciplined coding habits
 
 ---
 
@@ -26,6 +27,7 @@
 
 ### 💻 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,41 +39,30 @@
   <img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning
+### 🗄️ Databases
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4f46e5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-9333ea?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-2563eb?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🏨 Hostel Recommendation System (ML)
-- Machine Learning–based recommendation engine
-- Personalized hostel suggestions using filters
-- **Python | Pandas | Scikit-Learn**
-
-### 🌍 Portfolio Website
-- Modern React-based personal portfolio
-- Dark theme, animations & responsive UI
-- **React | Tailwind CSS | Framer Motion**
-
-### 🧠 Mind-Map Application
-- JavaScript-based interactive mind-mapping tool
-- Helps visualize and organize ideas efficiently
 
 ---
 
