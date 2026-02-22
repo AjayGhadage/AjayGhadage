@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ajay+Ghadage;Computer+Engineering+Student;Java LEARNER;+%7C+MERN-Stack+Developer;Machine+Learning+%26+Generative+AI+Enthusiast;Placement-Focused+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ajay+Ghadage;Computer+Engineering+Student;Java+Learner;+%7C+MERN-Stack+Developer;Machine+Learning+%26+Generative+AI+Enthusiast;Placement-Focused+Engineer" />
 </h1>
 
 ---
