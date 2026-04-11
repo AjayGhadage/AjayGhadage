@@ -5,27 +5,35 @@
 
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ajay+Ghadage;Computer+Engineering+Student;Java+Learner;+%7C+MERN-Stack+Developer;Machine+Learning+%26+Generative+AI+Enthusiast;Placement-Focused+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ajay+Ghadage;MERN+Stack+Developer;Scalable+Backend+Engineer;100%2B+LeetCode+Problems;GATE+Qualified;ML+%26+DevOps+Enthusiast" />
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
-🎓 **Computer Engineering Student** with a strong focus on **placements, problem-solving, and real-world engineering**.  
-💡 Passionate about **Full-Stack Development, Machine Learning, and Generative AI**.  
-🚀 Actively strengthening **core CS fundamentals** and building industry-relevant skills.
+🎓 Computer Engineering Student focused on **placements, backend engineering, and scalable systems**.  
+💡 Passionate about **MERN Stack, System Design, Machine Learning, and DevOps**.  
+🚀 Building **production-ready applications** with strong fundamentals.
 
-- 🔹 Strong foundation in **DSA, DBMS, CN, OS**
-- 🔹 Comfortable with **Java-based problem solving**
-- 🔹 Experience with **end-to-end web applications**
-- 🔹 Curious about **AI-powered systems**
-- 🔹 Consistent learner with disciplined coding habits
+- 🔹 Solved **100+ problems on LeetCode**
+- 🔹 **GATE Qualified** with strong CS fundamentals
+- 🔹 Focused on **backend architecture & REST APIs**
+- 🔹 Experience in **full-stack application development**
+- 🔹 Exploring **Machine Learning & DevOps workflows**
+
+---
+
+## 💼 Experience
+**🧑‍💻 Intern – BrightPathHorizon (Feb 2026 – Apr 2026)**  
+- Worked on **Auth Core systems**  
+- Implemented **Role-Based Access Control (RBAC)**  
+- Built backend logic for **secure and scalable systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
@@ -34,21 +42,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development (MERN)
 <p>
+  <img src="https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & Generative AI
+### 🤖 Machine Learning & AI
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-4f46e5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-9333ea?style=for-the-badge"/>
@@ -57,7 +64,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
@@ -74,11 +81,20 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 **Email:** ajayghadage2005@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ajay-ghadage-1a668a28b  
-- 🌐 **Portfolio:** https://ajay-portfolio-beryl.vercel.app/  
+## 🎯 Focus Areas
+- Backend Engineering & System Design  
+- Scalable API Development  
+- Problem Solving (DSA)  
+- Machine Learning Integration  
+- DevOps Fundamentals  
 
 ---
 
-⭐ *“Relax and discover the world of opportunities.”*
+## 📫 Connect With Me
+- 📧 ajayghadage7350@gmail.com  
+- 💼 https://www.linkedin.com/in/ajay-ghadage-1a668a28b  
+- 🌐 https://ajay-portfolio-beryl.vercel.app/  
+
+---
+
+⭐ *“Building scalable systems and solving real-world problems.”*
